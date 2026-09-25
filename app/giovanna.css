@@ -1,0 +1,18 @@
+/* Giovanna Saroli — charcoal, warm ivory and restrained champagne. */
+.essence-editorial { background: #f4f0eb; }
+.essence-values { background: #e9dfd5; }
+.essence-value { background: #faf8f3d9; border-color: #ffffffa8; }
+.essence-value-icon { background: #dbcab9; color: #292321; }
+.essence-editorial-description, .essence-value p { color: #6d635f; }
+.gallery-chapter, .closing-chapter, .footer, .result-dialog { background: #211d1b; }
+.gallery-photo, .comparison { background: #322b27; }
+.gallery-heading p, .footer-main > div { color: #d9cec6; }
+.ritual-chapter { background: #f4f0eb; }
+.social-chapter { background: #e8dfd5; }
+.closing-chapter { background: radial-gradient(circle at 80% 20%, #463a33, #211d1b 58%); }
+.menu-dialog { background: #f4f0eb; }
+.viewer-note { color: #d8bda7; }
+@media (max-width: 700px) {
+  .gallery-heading p { max-width: 30rem; }
+  .gallery-photo { aspect-ratio: .88; }
+}
