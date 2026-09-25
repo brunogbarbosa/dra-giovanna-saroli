@@ -26,4 +26,4 @@ Importe este repositório na Vercel. O framework é Next.js e o diretório raiz 
 
 Identidade, textos, contato e galeria estão em `data/site.ts`. As informações profissionais e de localização foram obtidas da referência do perfil enviada no pedido. O botão de agendamento usa o WhatsApp público vinculado ao perfil da Dra. Giovanna.
 
-As fotos e os registros foram enviados para este projeto e convertidos para WebP sem retoque visual. A galeria informa que os resultados são individuais. O favicon está em `app/icon.svg`. Nenhuma imagem OG foi criada ou incluída.
+As fotos e os registros foram enviados para este projeto e convertidos para WebP sem retoque visual. A galeria informa que os resultados são individuais. O favicon está em `app/icon.svg`. A imagem OG enviada pelo solicitante está otimizada em `public/og-giovanna-saroli.jpg`.
